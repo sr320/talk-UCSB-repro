@@ -1,7 +1,7 @@
 # talk-UCSB-repro
 
 
-## Repository that includes a [slidedeck](https://github.com/sr320/talk-UW-OA-2016/blob/master/2016-UW-OAweek.pdf) that was presented virually to a seminar class at UCSB.
+### Repository that includes a [slidedeck](https://github.com/sr320/talk-UW-OA-2016/blob/master/2016-UW-OAweek.pdf) that was presented virually to a seminar class at UCSB.
 
 
 
@@ -19,5 +19,5 @@
 
 - [Roberts Lab Research Products (Including Lab Notebooks)](http://faculty.washington.edu/sr320/?page_id=246)
 
-- [A few more ways to make papers reproducible](
+- [A few more ways to make papers reproducible](https://github.com/sr320/talk-UCSB-repro/blob/master/9-more.md)
 
