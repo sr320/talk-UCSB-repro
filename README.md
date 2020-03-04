@@ -4,7 +4,7 @@
 ## Repository that includes a [slidedeck](https://github.com/sr320/talk-UW-OA-2016/blob/master/2016-UW-OAweek.pdf) that was presented virually to a seminar class at UCSB.
 
 
-## Have a Question?
+
 
 [Ask me anything!](https://github.com/sr320/talk-UCSB-repro/issues)
 
