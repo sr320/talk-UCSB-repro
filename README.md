@@ -3,7 +3,6 @@
 
 ## Repository that includes a [slidedeck](https://github.com/sr320/talk-UW-OA-2016/blob/master/2016-UW-OAweek.pdf) that was presented virually to a seminar class at UCSB.
 
----
 
 ## Have a Question?
 
@@ -12,7 +11,7 @@
 
 ---
 
-##Links
+## Links
 
 - [9 Ways to Make Papers a Little More Open and Reproducible](http://faculty.washington.edu/sr320/?p=11381)
 
