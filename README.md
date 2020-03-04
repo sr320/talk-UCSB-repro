@@ -21,3 +21,7 @@
 
 - [A few more ways to make papers reproducible](https://github.com/sr320/talk-UCSB-repro/blob/master/9-more.md)
 
+
+---
+
+![gif](https://github.com/sr320/talk-UCSB-repro/blob/master/UCSB-OS-2020.gif?raw=true)
