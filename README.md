@@ -1,7 +1,18 @@
 # talk-UCSB-repro
 
 
-### Repository that includes a [slidedeck](https://github.com/sr320/talk-UCSB-repro/blob/master/UCSB-OS-2020.pdf) that was presented virually to a seminar class at UCSB.
+### Repository that includes a [slidedeck](https://github.com/sr320/talk-UCSB-repro/blob/master/UCSB-OS-2020.pdf) that was presented virtually to a seminar class at UCSB.
+
+
+---
+
+
+
+#### [Screen Recording](http://gannet.fish.washington.edu/seashell/snaps/GMT20200304-215756_OS-talk-US_gallery_1920x1080.mp4)
+
+
+
+---
 
 
 
